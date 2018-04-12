@@ -2,4 +2,11 @@ hello
 how r u
 i am good
 
+i live at kolkata
+i work in cerner
+
+this is all abt myself 
+i am done with my changes
+
 this is master branch
+
